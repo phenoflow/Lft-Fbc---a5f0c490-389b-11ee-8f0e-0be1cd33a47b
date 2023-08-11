@@ -1,0 +1,96 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/lft-fbc-m3-estimation---primary.py
+inputModule3:
+  class: File
+  path: python/lft-fbc-m3-haemoglobin---primary.py
+inputModule4:
+  class: File
+  path: python/lft-fbc-m3-borderline---primary.py
+inputModule5:
+  class: File
+  path: python/abnormal-lft-fbc-m3---primary.py
+inputModule6:
+  class: File
+  path: python/lft-fbc-m3-blood---primary.py
+inputModule7:
+  class: File
+  path: python/lft-fbc-m3-count---primary.py
+inputModule8:
+  class: File
+  path: python/lft-fbc-m3-raised---primary.py
+inputModule9:
+  class: File
+  path: python/lft-fbc-m3-nucleated---primary.py
+inputModule10:
+  class: File
+  path: python/total-lft-fbc-m3---primary.py
+inputModule11:
+  class: File
+  path: python/white-lft-fbc-m3---primary.py
+inputModule12:
+  class: File
+  path: python/lft-fbc-m3-leucopenia---primary.py
+inputModule13:
+  class: File
+  path: python/lft-fbc-m3-leucocytosis---primary.py
+inputModule14:
+  class: File
+  path: python/lft-fbc-m3-agranulocytosis---primary.py
+inputModule15:
+  class: File
+  path: python/differential-lft-fbc-m3---primary.py
+inputModule16:
+  class: File
+  path: python/lft-fbc-m3-platelet---primary.py
+inputModule17:
+  class: File
+  path: python/lft-fbc-m3-thrombocytopenia---primary.py
+inputModule18:
+  class: File
+  path: python/lft-fbc-m3-thrombocythaemia---primary.py
+inputModule19:
+  class: File
+  path: python/lft-fbc-m3-neutrophil---primary.py
+inputModule20:
+  class: File
+  path: python/lft-fbc-m3-percentage---primary.py
+inputModule21:
+  class: File
+  path: python/lft-fbc-m3-tests---primary.py
+inputModule22:
+  class: File
+  path: python/lft-fbc-m3-pyruvate---primary.py
+inputModule23:
+  class: File
+  path: python/lft-fbc-m3-lactate---primary.py
+inputModule24:
+  class: File
+  path: python/lft-fbc-m3-serum---primary.py
+inputModule25:
+  class: File
+  path: python/lft-fbc-m3-phosphatase---primary.py
+inputModule26:
+  class: File
+  path: python/lft-fbc-m3-enzyme---primary.py
+inputModule27:
+  class: File
+  path: python/lft-fbc-m3-gammaglutamyl---primary.py
+inputModule28:
+  class: File
+  path: python/lft-fbc-m3-aminotransferase---primary.py
+inputModule29:
+  class: File
+  path: python/lft-fbc-m3-5nucleotidase---primary.py
+inputModule30:
+  class: File
+  path: python/lft-fbc-m3-dehydrogenase---primary.py
+inputModule31:
+  class: File
+  path: python/lft-fbc-m3---primary.py
+inputModule32:
+  class: File
+  path: python/output-cases.py
